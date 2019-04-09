@@ -1,17 +1,17 @@
 # FirstProject
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Ayushi Srivastava**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Working with Git was very interesting and complex for me since I was not used to this platform, it created some more issues in submitting this project. While this is my first very rudimentary project in Xcode and does not have those many features, I had a lot of fun making it and look forward to trying to make more complex things.
 
 ## License
 
